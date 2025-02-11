@@ -70,5 +70,7 @@ Preferred Language: R
 
 
 #link to the video
-#
+#https://www.linkedin.com/posts/fisayoabisoye_hackbio-stage-0-submission-activity-7295195501140873217-F0hE
 
+#link to repo
+#https://github.com/fisayo234/hackbio-biocoding-internship/tree/main
